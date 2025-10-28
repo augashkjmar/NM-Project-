@@ -30,7 +30,7 @@ node client.js
 
 ---
 ## Author
-**Arjun A**  
+**Augashkumar N**  
 ---
 ## License
 This project is licensed under the **MIT License** – you are free to use and modify it.
